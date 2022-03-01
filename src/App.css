@@ -1,3 +1,14 @@
+body {
+  background: #dadbbd;
+}
+
+.App h1 {
+  margin: 20px;
+  font-size: 34px;
+  font-weight: bold;
+  color: #151d3b;
+}
+
 .App footer {
   text-align: center;
 }
