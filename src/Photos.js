@@ -12,7 +12,7 @@ export default function Photos(props) {
                 <img
                   src={photo.src.landscape}
                   className="img-fluid"
-                  alt="image result for search"
+                  alt="results"
                 />
               </a>
             </span>
