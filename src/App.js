@@ -12,7 +12,15 @@ function App() {
 
         <footer>
           <small>
-            Coded by Stephanie Davis and is{" "}
+            ⛵️ This website was coded by{" "}
+            <a
+              href="https://www.stephdaviscodes.com"
+              rel="noreferrer"
+              target="_blank"
+            >
+              Stephanie Davis
+            </a>{" "}
+            and is{" "}
             <a
               href="https://github.com/spechthalt/react-dictionary"
               rel="noreferrer"

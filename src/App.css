@@ -22,3 +22,7 @@ body {
 .App header {
   text-align: center;
 }
+
+.App small a {
+  color: #151d3b;
+}
