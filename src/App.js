@@ -11,7 +11,16 @@ function App() {
         <Dictionary defaultKeyword={"sail"} />
 
         <footer>
-          <small>Coded by Stephanie Davis and is open sourced on Github</small>
+          <small>
+            Coded by Stephanie Davis and is{" "}
+            <a
+              href="https://github.com/spechthalt/react-dictionary"
+              rel="noreferrer"
+              target="_blank"
+            >
+              open sourced on Github
+            </a>
+          </small>
         </footer>
       </div>
     </div>
