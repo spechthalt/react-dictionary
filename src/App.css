@@ -1,15 +1,16 @@
 body {
-  background: #dadbbd;
+  background: #a8bfbe;
 }
 
 .App {
   max-width: 800px;
-  margin: 0 auto;
+  margin: 20px auto;
 }
 
 .App h1 {
   margin: 20px;
-  font-size: 34px;
+  font-size: 50px;
+  font-family: Lobster;
   font-weight: bold;
   color: #151d3b;
 }

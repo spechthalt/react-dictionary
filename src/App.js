@@ -6,9 +6,9 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <h1>Dictionary App</h1>
+          <h1>Nautical Dictionary ⚓️</h1>
         </header>
-        <Dictionary defaultKeyword={"sunset"} />
+        <Dictionary defaultKeyword={"sail"} />
 
         <footer>
           <small>Coded by Stephanie Davis and is open sourced on Github</small>
