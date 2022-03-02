@@ -8,7 +8,12 @@ export default function Photos(props) {
         {props.photos.map(function (photo, index) {
           return (
             <span className="col-3" key={index}>
-              <a href={photo.src.original} rel="nonreferrer" target="_blank">
+              <a
+                href={photo.src.original}
+                rel="noreferrer"
+                target="_blank"
+                alt="photo seach"
+              >
                 <img src={photo.src.landscape} className="img-fluid" />
               </a>
             </span>
