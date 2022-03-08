@@ -55,9 +55,6 @@ export default function Dictionary(props) {
               onChange={updateKeyword}
             />
           </form>
-          <small className="text-muted">
-            Suggestions: tide, stern, anchor, lighthouse
-          </small>
         </section>
 
         <Results results={results} />

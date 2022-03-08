@@ -6,13 +6,18 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <h1>Nautical Dictionary ⚓️</h1>
+          <h1>
+            <span className="h-color-1">Dic•</span>
+            <span className="h-color-2">tion•</span>
+            <span className="h-color-3">ar•</span>
+            <span className="h-color-1">y</span>
+          </h1>
         </header>
-        <Dictionary defaultKeyword={"sail"} />
+        <Dictionary defaultKeyword={"confetti"} />
 
         <footer>
           <small>
-            ⛵️ This website was coded by{" "}
+            📖 This website was coded by{" "}
             <a
               href="https://www.stephdaviscodes.com"
               rel="noreferrer"

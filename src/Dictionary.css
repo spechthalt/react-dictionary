@@ -10,13 +10,14 @@
   border: 1px solid #ddd;
   width: 100%;
   padding: 8px 10px;
+  margin-top: 10px;
   border-radius: 8px;
 }
 
 .Dictionary h1 {
   font-family: sans-serif;
   font-size: 18px;
-  margin: 20px 0;
+  margin: 10px 0;
 }
 
 .Dictionary small {
